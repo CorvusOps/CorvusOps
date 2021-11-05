@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CorvusOps/CorvusOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> <p> < Hello World! Im Joseph (aka CorvusOps) />  <img src="gifs/Wave.gif" width="30"/> </p>  
+  <!-- Add an img of me or sumn --> 
+  </h2>
+  
+An undergraduate Computer Science student that is on the process of building a versatile and adoptive developer. My passion includes exploring and obtaining knowledge specifically on different fields in Computer Science, honing my working and studing habits and combining it to be a goal-orriented steady phased developer. ⚡💬😄
