@@ -17,4 +17,13 @@ Here are some ideas to get you started:
   <!-- Add an img of me or sumn --> 
   </h2>
   
-An undergraduate Computer Science student that is on the process of building a versatile and adoptive developer. My passion includes exploring and obtaining knowledge specifically on different fields in Computer Science, honing my working and studing habits and combining it to be a goal-orriented steady phased developer. ⚡💬😄
+# 🚀 Site Reliability Engineer | Software Engineer  
+
+Passionate about building scalable, reliable, and high-performance systems. With a strong foundation in **software development, system optimization, and automation**, I thrive on solving complex problems and ensuring seamless application performance.  
+
+💡 My expertise spans **backend development, cloud infrastructure, and system reliability**, with a focus on **efficiency, automation, and continuous improvement**. Always eager to explore new technologies, refine my problem-solving skills, and contribute to impactful projects.  
+
+📌 Currently working as a **Site Reliability Engineer at Procter & Gamble (P&G)**, ensuring system stability and performance through proactive monitoring, automation, and incident resolution.  
+
+Let’s connect and build something amazing! 🚀  
+
