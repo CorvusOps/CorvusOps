@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <!-- Add an img of me or sumn --> 
   </h2>
   
-**🚀 Site Reliability Engineer | Software Engineer ** 
+### 🚀 Site Reliability Engineer | Software Engineer 
 
 Passionate about building scalable, reliable, and high-performance systems. With a strong foundation in **software development, system optimization, and automation**, I thrive on solving complex problems and ensuring seamless application performance.  
 
